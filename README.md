@@ -151,3 +151,4 @@ To test if the permission and role is working, you can simply use the ``can()`` 
 
 ## Code Debugging
 Check the ``AuthServiceProvider`` for debugging the Gates and update anything if you need.
+# laravel-roles-permissions
